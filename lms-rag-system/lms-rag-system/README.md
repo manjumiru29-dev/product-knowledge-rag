@@ -69,32 +69,3 @@ When a user asks a question:
                        ▼
                 Generated Answer
 
-
-🔍 Main Components
-1. Embedding Service
-
-The embedding service converts text into numerical vector representations.
-
-These vectors are used to find information that is semantically similar to the user's question.
-
-2. Indexing Service
-
-The indexing service processes product knowledge and prepares it for retrieval using vector embeddings.
-
-3. Retrieval Service
-
-The retrieval service searches the vector database and identifies relevant information for a user's question.
-
-4. RAG Chain
-
-The RAG chain connects the retrieved information with the generation process to produce an answer based on the available knowledge.
-
-5. FastAPI
-
-FastAPI provides the backend API through which queries and other application operations can be handled.
-
-6. Streamlit Chatbot
-
-The Streamlit interface provides a simple way for users to interact with the product knowledge chatbot.
-
-
