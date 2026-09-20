@@ -97,4 +97,4 @@ FastAPI provides the backend API through which queries and other application ope
 
 The Streamlit interface provides a simple way for users to interact with the product knowledge chatbot.
 
-interface provides a simple way for users to interact with the product knowledge chatbot.
+
