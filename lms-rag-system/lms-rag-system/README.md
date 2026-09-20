@@ -62,8 +62,16 @@ When a user asks a question:
                        │
                        ▼
               Relevant Information
+                       │
+                       ▼
+                  RAG Chain
+                       │
+                       ▼
+                Generated Answer
+
 
 🔍 Main Components
+
 **1. Embedding Service**
 
 The embedding service converts text into numerical vector representations.
@@ -89,9 +97,3 @@ FastAPI provides the backend API through which queries and other application ope
 **6. Streamlit Chatbot**
 
 The Streamlit interface provides a simple way for users to interact with the product knowledge chatbot.
-                       │
-                       ▼
-                  RAG Chain
-                       │
-                       ▼
-                Generated Answer
