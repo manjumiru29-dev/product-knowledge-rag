@@ -3,11 +3,11 @@ version: '3.8'
 services:
   postgres:
     image: pgvector/pgvector:pg16
-    container_name: lms-db
+    container_name:file name
     environment:
       POSTGRES_USER: postgres
-      POSTGRES_PASSWORD: my_password
-      POSTGRES_DB: lms_db
+      POSTGRES_PASSWORD: passwoard
+      POSTGRES_DB: database name
     ports:
       - "55432:5432"
     volumes:
