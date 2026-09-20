@@ -69,6 +69,7 @@ When a user asks a question:
                        ▼
                 Generated Answer
 
+----
 🔍 Main Components
 1. Embedding Service
 
