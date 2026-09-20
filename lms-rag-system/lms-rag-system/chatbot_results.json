@@ -1,0 +1,384 @@
+[
+  {
+    "timestamp": "2026-03-20 20:53:47",
+    "question": "\"Show me wireless headphones under Rs.500\"",
+    "answer": "❌ Error: HTTPConnectionPool(host='localhost', port=8002): Read timed out. (read timeout=60)",
+    "source_type": "All",
+    "retrieved_count": 0,
+    "answer_length": 91
+  },
+  {
+    "timestamp": "2026-03-20 21:07:38",
+    "question": "\"Show me wireless headphones under Rs.500\"",
+    "answer": "⚠️ Backend returned status 500",
+    "source_type": "All",
+    "retrieved_count": 0,
+    "answer_length": 30
+  },
+  {
+    "timestamp": "2026-03-20 21:27:55",
+    "question": "give me a electronic product details",
+    "answer": "- Product name, SKU, price, discount, status - Brand name, industry, country of origin, founded year, website - Category name and parent category - Article type and content summary (for articles) - FAQ answer (for FAQs) If a detail is not in the knowledge base, do not guess — say it is not available. Be concise, factual, and helpful.",
+    "source_type": "All",
+    "retrieved_count": 5,
+    "answer_length": 335
+  },
+  {
+    "timestamp": "2026-03-20 21:30:04",
+    "question": "show me wireless head phone price",
+    "answer": "[1]",
+    "source_type": "All",
+    "retrieved_count": 5,
+    "answer_length": 3
+  },
+  {
+    "timestamp": "2026-03-20 21:32:03",
+    "question": "give me a sony brand products",
+    "answer": "Product name, SKU, price, discount, status - Brand name, industry, country of origin, founded year, website - Category name and parent category - Article type and content summary (for articles) - FAQ answer (for FAQs) If a detail is not in the knowledge base, do not guess— say it is not available. Be concise, factual, and helpful.",
+    "source_type": "All",
+    "retrieved_count": 5,
+    "answer_length": 332
+  },
+  {
+    "timestamp": "2026-03-20 21:33:17",
+    "question": "Tell me about Sony",
+    "answer": "Sony - Product name, SKU, price, discount, status - Brand name, industry, country of origin, founded year, website - Category name and parent category - Article type and content summary (for articles) - FAQ answer (for FAQs) If a detail is not in the knowledge base, do not guess— say it is not available. Be concise, factual, and helpful.",
+    "source_type": "All",
+    "retrieved_count": 5,
+    "answer_length": 339
+  },
+  {
+    "timestamp": "2026-03-20 21:35:22",
+    "question": "what is AI",
+    "answer": "Product name, SKU, price, discount, status - Brand name, industry, country of origin, founded year, website - Category name and parent category - Article type and content summary (for articles) - FAQ answer (for FAQs) If a detail is not in the knowledge base, do not guess— say it is not available. Be concise, factual, and helpful.",
+    "source_type": "All",
+    "retrieved_count": 5,
+    "answer_length": 332
+  },
+  {
+    "timestamp": "2026-03-20 21:41:49",
+    "question": "show me wireless headphone details",
+    "answer": "- Product name, SKU, price, discount, status - Brand name, industry, country of origin, founded year, website - Category name and parent category - Article type and content summary (for articles) - FAQ answer (for FAQs) If a detail is not in the knowledge base, do not guess— say it is not available. Be concise, factual, and helpful.",
+    "source_type": "All",
+    "retrieved_count": 5,
+    "answer_length": 334
+  },
+  {
+    "timestamp": "2026-03-20 21:42:28",
+    "question": "what is DBMS",
+    "answer": "❌ I could not find relevant product information for **'what is DBMS'**.\n\nPlease ask about our products, brands, categories, or FAQs.",
+    "source_type": "All",
+    "retrieved_count": 5,
+    "answer_length": 132
+  },
+  {
+    "timestamp": "2026-03-23 11:23:02",
+    "question": "give me wireless headphone price",
+    "answer": "Customer question: give me wireless headphone price",
+    "source_type": "All",
+    "retrieved_count": 5,
+    "answer_length": 51
+  },
+  {
+    "timestamp": "2026-03-23 11:24:11",
+    "question": "how many categories available",
+    "answer": "❌ I could not find relevant product information for **'how many categories available'**.\n\nPlease ask about our products, brands, categories, or FAQs.",
+    "source_type": "category",
+    "retrieved_count": 5,
+    "answer_length": 149
+  },
+  {
+    "timestamp": "2026-03-23 11:25:19",
+    "question": "give me electronic product categories",
+    "answer": "Product name, SKU, price, discount, status - Brand name, industry, country of origin, founded year, website - Category name and parent category - Article type and content summary (for articles) - FAQ answer (for FAQs) If a detail is not in the knowledge base, do not guess — say it is not available. Be concise, factual, and helpful.",
+    "source_type": "category",
+    "retrieved_count": 5,
+    "answer_length": 333
+  },
+  {
+    "timestamp": "2026-03-23 11:27:10",
+    "question": "how do i clean this product  for mouse?",
+    "answer": "clean it for mouse",
+    "source_type": "faq",
+    "retrieved_count": 5,
+    "answer_length": 18
+  },
+  {
+    "timestamp": "2026-03-23 11:29:08",
+    "question": "list the all brands ",
+    "answer": "❌ I could not find relevant product information for **'list the all brands '**.\n\nPlease ask about our products, brands, categories, or FAQs.",
+    "source_type": "brand",
+    "retrieved_count": 5,
+    "answer_length": 140
+  },
+  {
+    "timestamp": "2026-03-23 12:22:31",
+    "question": "list the categories",
+    "answer": "❌ No Categories found in the knowledge base.",
+    "source_type": "category",
+    "retrieved_count": 0,
+    "answer_length": 44,
+    "action_type": "listing"
+  },
+  {
+    "timestamp": "2026-03-23 12:22:51",
+    "question": "list the categories",
+    "answer": "❌ No Categories found in the knowledge base.",
+    "source_type": "category",
+    "retrieved_count": 0,
+    "answer_length": 44,
+    "action_type": "listing"
+  },
+  {
+    "timestamp": "2026-03-23 14:13:53",
+    "question": "list the all brands",
+    "answer": "❌ No Brands found in the database.\n\nMake sure your database has `source_type = 'brand'` entries in `course_materials` table.",
+    "source_type": "brand",
+    "retrieved_count": 0,
+    "answer_length": 124,
+    "action_type": "listing"
+  },
+  {
+    "timestamp": "2026-03-23 14:24:09",
+    "question": "list the brands?",
+    "answer": "###  Brands List\n\nFound **15 Brands** in the database:",
+    "source_type": "brand",
+    "retrieved_count": 15,
+    "answer_length": 54,
+    "action_type": "listing"
+  },
+  {
+    "timestamp": "2026-03-23 14:24:44",
+    "question": "give me wireless headphone price?",
+    "answer": "[1]",
+    "source_type": "All",
+    "retrieved_count": 5,
+    "answer_length": 3,
+    "action_type": "rag"
+  },
+  {
+    "timestamp": "2026-03-24 11:05:32",
+    "question": "give me list of brands",
+    "answer": "###  Brands List\n\nFound **15 Brands** in the database:",
+    "source_type": "brand",
+    "retrieved_count": 15,
+    "answer_length": 54,
+    "action_type": "listing"
+  },
+  {
+    "timestamp": "2026-03-24 11:06:31",
+    "question": "tell me about sony",
+    "answer": " I could not find relevant product information for **'tell me about sony'**.\n\nPlease ask about our products, brands, categories, or FAQs.\n\n **Tip:** Use the **Quick Lists** buttons in the sidebar to browse all items.",
+    "source_type": "All",
+    "retrieved_count": 5,
+    "answer_length": 216,
+    "action_type": "rag"
+  },
+  {
+    "timestamp": "2026-03-24 11:07:34",
+    "question": "give me wireless headphone price",
+    "answer": "Customer question: give me wireless headphone price",
+    "source_type": "All",
+    "retrieved_count": 5,
+    "answer_length": 51,
+    "action_type": "rag"
+  },
+  {
+    "timestamp": "2026-03-24 11:10:04",
+    "question": "show me wireless headphone under Rs.500",
+    "answer": "Rs. 63.95 Status : discontinued SKU : SMA-HEA-1046 Brand : SmartTech Industry : Smart Home & IoT Country : Canada Founded : 2013 Website : https://www.smarttech.ca Content : Product : SmartTech Deluxe Headphones. Brand : Smart Home & IoT Country : Canada Founded : 2013 Website : https://www.smarttech.ca Content : Product : SmartTech Deluxe Headphones. Brand : Smart Home & IoT Country : Canada Founded : 2013 Website : https://www.smarttech.ca Content : Product : SmartTech Deluxe Headphones. Brand : Smart Home & IoT Country : Canada Founded : 2013 Website : https://www.smarttech.ca Content : Product : SmartTech Deluxe Headphones. Brand : Smart Home & IoT Country : Canada Founded : 2013 Website : https://www.smarttech.ca Content : Product : SmartTech Deluxe Headphones",
+    "source_type": "All",
+    "retrieved_count": 5,
+    "answer_length": 775,
+    "action_type": "rag"
+  },
+  {
+    "timestamp": "2026-03-24 15:09:08",
+    "question": "How do I connect bluetooth headphones?",
+    "answer": "To connect bluetooth headphones, you will need a bluetooth headset.",
+    "source_type": "All",
+    "retrieved_count": 5,
+    "answer_length": 67,
+    "action_type": "rag"
+  },
+  {
+    "timestamp": "2026-03-24 15:20:47",
+    "question": "list the all categories",
+    "answer": "###  Categories List\n\nFound **10 Categories** in the database:",
+    "source_type": "category",
+    "retrieved_count": 10,
+    "answer_length": 62,
+    "action_type": "listing"
+  },
+  {
+    "timestamp": "2026-03-24 15:33:26",
+    "question": "list the all categories",
+    "answer": " No Categories found.\n\nMake sure the `/api/list` endpoint is added to your `endpoints.py`.",
+    "source_type": "category",
+    "retrieved_count": 0,
+    "answer_length": 90,
+    "action_type": "listing"
+  },
+  {
+    "timestamp": "2026-03-24 15:37:29",
+    "question": "What laptop categories exist?",
+    "answer": " I could not find relevant product information for **'What laptop categories exist?'**.\n\nPlease ask about our products, brands, categories, or FAQs.\n\n **Tip:** Use the **Quick Lists** buttons in the sidebar to browse all items.",
+    "source_type": "All",
+    "retrieved_count": 0,
+    "answer_length": 227,
+    "action_type": "rag"
+  },
+  {
+    "timestamp": "2026-03-24 15:55:32",
+    "question": "list the all brands",
+    "answer": "###  Brands List\n\nFound **15 Brands** in the database:",
+    "source_type": "brand",
+    "retrieved_count": 15,
+    "answer_length": 54,
+    "action_type": "listing"
+  },
+  {
+    "timestamp": "2026-03-24 15:57:39",
+    "question": "give me the wireless headphone price",
+    "answer": " I could not find relevant product information for **'give me the wireless headphone price'**.\n\nPlease ask about our products, brands, categories, or FAQs.\n\n **Tip:** Use the **Quick Lists** buttons in the sidebar to browse all items.",
+    "source_type": "All",
+    "retrieved_count": 5,
+    "answer_length": 234,
+    "action_type": "rag"
+  },
+  {
+    "timestamp": "2026-03-24 16:02:43",
+    "question": "give me the wireless headphone price under Rs.1000",
+    "answer": "Price: Rs.1000",
+    "source_type": "All",
+    "retrieved_count": 5,
+    "answer_length": 14,
+    "action_type": "rag"
+  },
+  {
+    "timestamp": "2026-03-25 13:50:39",
+    "question": "list the all brands",
+    "answer": "###  Brands List\n\nFound **15 Brands** in the database:",
+    "source_type": "brand",
+    "retrieved_count": 15,
+    "answer_length": 54,
+    "action_type": "listing"
+  },
+  {
+    "timestamp": "2026-03-25 15:36:27",
+    "question": "give me a wireless headphone price",
+    "answer": "Rs.129.99",
+    "source_type": "All",
+    "retrieved_count": 5,
+    "answer_length": 9,
+    "action_type": "rag"
+  },
+  {
+    "timestamp": "2026-03-25 16:11:31",
+    "question": "list the all brands",
+    "answer": "###  Brands List\n\nFound **15 Brands** in the database:",
+    "source_type": "brand",
+    "retrieved_count": 15,
+    "answer_length": 54,
+    "action_type": "listing"
+  },
+  {
+    "timestamp": "2026-03-30 14:24:54",
+    "question": "give me wireless headphone price",
+    "answer": "Rs.129.99",
+    "source_type": "All",
+    "retrieved_count": 5,
+    "answer_length": 9,
+    "action_type": "rag"
+  },
+  {
+    "timestamp": "2026-03-30 14:35:16",
+    "question": "give me wireless headphone price",
+    "answer": "Rs.129.99",
+    "source_type": "All",
+    "retrieved_count": 5,
+    "answer_length": 9,
+    "action_type": "rag"
+  },
+  {
+    "timestamp": "2026-03-30 14:46:52",
+    "question": "give me a wireless headphone price",
+    "answer": "Rs.129.99",
+    "source_type": "All",
+    "retrieved_count": 5,
+    "answer_length": 9,
+    "action_type": "rag"
+  },
+  {
+    "timestamp": "2026-04-03 18:42:42",
+    "question": "give me Fusionpro superior tablet price",
+    "answer": "Rs.26.32",
+    "source_type": "All",
+    "retrieved_count": 5,
+    "answer_length": 8,
+    "action_type": "rag"
+  },
+  {
+    "timestamp": "2026-04-03 18:48:04",
+    "question": "give me Fusionpro superior tablet description only",
+    "answer": "Product name, SKU, price, discount, status, brand name, industry, country of origin, founded year, website- Category name and parent category: Gaming - Type J. Parent category: Audio. Price: Rs.26.32 (10.00% off) Status : available SKU : FUS-TAB-2540 Brand : FusionPro Industry : Mobile & Computing Country : Taiwan Founded : 2003 Website : https://www.fusionpro.tw Content : Product: FusionPro Superior Tablet. Brand: FusionPro. Industry : Mobile & Computing Country : Taiwan Founded : 2003 Website : https://www.fusionpro.tw Content : Product: FusionPro Superior Tablet. Brand: FusionPro. Industry : Mobile & Computing Country : Taiwan Founded : 2003 Website : https://www.fusionpro.tw Content : Product: FusionPro Superior Tablet. Brand: FusionPro. Industry : Mobile & Computing Country : Taiwan Founded : 2003 Website : https://www.fusionpro.tw Content : Product: FusionPro Superior Tablet. Brand: FusionPro. Industry :",
+    "source_type": "All",
+    "retrieved_count": 5,
+    "answer_length": 923,
+    "action_type": "rag"
+  },
+  {
+    "timestamp": "2026-04-03 18:49:24",
+    "question": "give me a most expensive product list",
+    "answer": "###  Products List\n\nFound **100 Products** in the database:",
+    "source_type": "product",
+    "retrieved_count": 100,
+    "answer_length": 59,
+    "action_type": "listing"
+  },
+  {
+    "timestamp": "2026-04-15 21:55:41",
+    "question": "what is python?",
+    "answer": " I could not find relevant product information for **'what is python?'**.\n\nPlease ask about our products, brands, categories, or FAQs.\n\n **Tip:** Use the **Quick Lists** buttons in the sidebar to browse all items.",
+    "source_type": "All",
+    "retrieved_count": 0,
+    "answer_length": 213,
+    "action_type": "rag"
+  },
+  {
+    "timestamp": "2026-04-17 11:50:36",
+    "question": "give me a wireless headphone price",
+    "answer": " I could not find relevant product information for **'give me a wireless headphone price'**.\n\nPlease ask about our products, brands, categories, or FAQs.\n\n **Tip:** Use the **Quick Lists** buttons in the sidebar to browse all items.",
+    "source_type": "All",
+    "retrieved_count": 0,
+    "answer_length": 232,
+    "action_type": "rag"
+  },
+  {
+    "timestamp": "2026-04-17 11:55:02",
+    "question": "give me a wireless headphone price",
+    "answer": "Rs.129.99",
+    "source_type": "All",
+    "retrieved_count": 5,
+    "answer_length": 9,
+    "action_type": "rag"
+  },
+  {
+    "timestamp": "2026-04-28 09:31:59",
+    "question": "list the brands",
+    "answer": "###  Brands List\n\nFound **15 Brands** in the database:",
+    "source_type": "brand",
+    "retrieved_count": 15,
+    "answer_length": 54,
+    "action_type": "listing"
+  },
+  {
+    "timestamp": "2026-04-28 12:29:31",
+    "question": "give me a wireless headphone price",
+    "answer": "Rs.129.99",
+    "source_type": "All",
+    "retrieved_count": 5,
+    "answer_length": 9,
+    "action_type": "rag"
+  }
+]
