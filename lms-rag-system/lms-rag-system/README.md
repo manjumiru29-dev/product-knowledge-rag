@@ -69,7 +69,7 @@ When a user asks a question:
                        ▼
                 Generated Answer
 
-##🔍 Main Components
+🔍 Main Components
 1. Embedding Service
 
 The embedding service converts text into numerical vector representations.
