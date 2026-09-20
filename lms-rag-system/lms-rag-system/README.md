@@ -40,6 +40,7 @@ When a user asks a question:
 
 ---
 ## 🔍 Main Components
+
 1. Embedding Service
 
 The embedding service converts text into numerical vector representations.
@@ -66,7 +67,8 @@ FastAPI provides the backend API through which queries and other application ope
 
 The Streamlit interface provides a simple way for users to interact with the product knowledge chatbot.
 
-##🗄️ Database
+---
+## 🗄️ Database
 
 The project uses PostgreSQL with pgvector for storing product knowledge and vector embeddings.
 
@@ -80,6 +82,18 @@ Articles
 Search history
 
 Vector embeddings are used to perform similarity-based retrieval.
+
+## 📊 Key Features
+Local product knowledge retrieval
+Vector similarity search
+PostgreSQL database integration
+pgvector support
+RAG-based answer generation
+FastAPI backend
+Streamlit chatbot interface
+Product, FAQ, brand and category knowledge
+Docker-based database setup
+Modular application structure
 
 
 ## 🔄 RAG Workflow
