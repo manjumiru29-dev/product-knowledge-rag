@@ -84,16 +84,16 @@ Search history
 Vector embeddings are used to perform similarity-based retrieval.
 
 ## 📊 Key Features
-Local product knowledge retrieval
-Vector similarity search
-PostgreSQL database integration
-pgvector support
-RAG-based answer generation
-FastAPI backend
-Streamlit chatbot interface
-Product, FAQ, brand and category knowledge
-Docker-based database setup
-Modular application structure
+-Local product knowledge retrieval
+-Vector similarity search
+-PostgreSQL database integration
+-pgvector support
+-RAG-based answer generation
+-FastAPI backend
+-Streamlit chatbot interface
+-Product, FAQ, brand and category knowledge
+-Docker-based database setup
+-Modular application structure
 
 
 ## 🔄 RAG Workflow
